@@ -44,8 +44,8 @@ signal.signal(signal.SIGINT, signal_handler)
 signal.signal(signal.SIGTERM, signal_handler)
 
 # Konfigurasi API Binance Testnet
-API_KEY = '9lW8rdz9w8KlZMOuQDEkg4QDoxUDspCJXllgULTa7cyQ95cxwu8VjkFttv01BjjI'
-API_SECRET = 'LA8iHHFoSM7esevMQDK3opZNZnXCjuR8li73aZy9MofXPcbYeCRBg5Sfx6OYuVrt'
+API_KEY = '9lW8rdz9w8KlZMOuQDEkg4QDox3496UDspCJXllgULTa7cyQ95cxwu8VjkFt72tv01BjjI'
+API_SECRET = 'LDcA8iHHFoSM7es32evMQDK3opZNZnXCjuR8li73aZy9MofXPcbYeCRBg5SfxW46OYuVrt'
 BASE_URL = 'https://testnet.binance.vision'
 
 # Konfigurasi Telegram
