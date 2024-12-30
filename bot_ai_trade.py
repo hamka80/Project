@@ -49,8 +49,8 @@ API_SECRET = 'LA8iHHFoSM7esevMQDK3opZNZnXCjuR8li73aZy9MofXPcbYeCRBg5Sfx6OYuVrt'
 BASE_URL = 'https://testnet.binance.vision'
 
 # Konfigurasi Telegram
-TELEGRAM_BOT_TOKEN = '7885418020:AAFwD4z6b7JvDO7jdP_Q4mtvFsG0veNBfgQ'
-TELEGRAM_CHAT_ID = '1446673557'
+TELEGRAM_BOT_TOKEN = '655585418020:AAFwD4z6b7JvDTRO7jdP_Q4mtvFsG750veNBfgQ'
+TELEGRAM_CHAT_ID = '23456712311'
 
 # Inisialisasi Binance Client
 client = Client(API_KEY, API_SECRET, testnet=True)
